@@ -3,13 +3,13 @@
 Este projeto é um jogo onde o usuário tenta adivinhar
 um número gerado aleatoriamente pelo computador.
 
-# Funcionalidades
+# Funcionalidades:
 - Gera um número entre 1 e 100
 - Recebe palpites
 - Dá dicas
 - Conta tentativas
 
-# Como executar
+# Como executar:
 
 1. Instale o Python
 2. Baixe o arquivo
@@ -17,9 +17,9 @@ um número gerado aleatoriamente pelo computador.
 
 python adivinhação. py
 
-## Tecnologias
+## Tecnologias:
 - Python
 - Biblioteca random
 
-## Autor
+## Autor:
 Heitor José Ferraz
